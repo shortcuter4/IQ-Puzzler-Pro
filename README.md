@@ -1,10 +1,10 @@
 # JOKERS_IQPuzzlerPro_CS319
 IQ Puzzler Pro game for the Object-Oriented Software Engineering Course
 ## Group Members
-* Ravan Aliyev
 * Mahmud Sami Aydın
-* Cihan Erkan
 * Subhan Ibrahimli
+* Ravan Aliyev
+* Cihan Erkan
 * Ismayil Mammadov
 * Burak Erdem Varol
 ## Description of the Project
